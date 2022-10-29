@@ -1,0 +1,202 @@
+{
+    "696194": {
+        "articles_title": "Как открыть карту Visa и MasterCard, чтобы оплачивать зарубежные сервисы и покупать в иностранных интернет магазинах",
+        "articles_id": "696194",
+        "articles_time": "2022-10-29T06:44:30+00:00",
+        "articles_author": "AlexKzz",
+        "articles_Plus": 5,
+        "articles_Minus": 2,
+        "articles_corporation": false,
+        "articles_url": "https://habr.com/ru/post/696194/"
+    },
+    "695882": {
+        "articles_title": "IT для неайтишников: Куда исчезают программисты после 40 лет?",
+        "articles_id": "695882",
+        "articles_time": "2022-10-29T04:41:21+00:00",
+        "articles_author": "constantine_mitin",
+        "articles_Plus": 16,
+        "articles_Minus": 1,
+        "articles_corporation": false,
+        "articles_url": "https://habr.com/ru/post/695882/"
+    },
+    "696186": {
+        "articles_title": "Немного о WebEngine — low-code IDE для разработки современных веб-приложений",
+        "articles_id": "696186",
+        "articles_time": "2022-10-29T01:19:16+00:00",
+        "articles_author": "KirAmp",
+        "articles_Plus": 7,
+        "articles_Minus": 0,
+        "articles_corporation": false,
+        "articles_url": "https://habr.com/ru/post/696186/"
+    },
+    "696188": {
+        "articles_title": "О способах отслеживания данных — простыми словами. Server-side vs client-side tracking: преимущества и недостатки",
+        "articles_id": "696188",
+        "articles_time": "2022-10-28T22:13:44+00:00",
+        "articles_author": "Sabina_Shukyurova",
+        "articles_Plus": 8,
+        "articles_Minus": 3,
+        "articles_corporation": false,
+        "articles_url": "https://habr.com/ru/post/696188/"
+    },
+    "693124": {
+        "articles_title": "ОС ToaruOS, написанная с нуля, взрослеет: на что способна экспериментальная операционная система год спустя",
+        "articles_id": "693124",
+        "articles_time": "2022-10-28T20:56:44+00:00",
+        "articles_author": "kkxen",
+        "articles_Plus": 10,
+        "articles_Minus": 2,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/693124/"
+    },
+    "693338": {
+        "articles_title": "Создание 3D-сетки из изображения с помощью Python",
+        "articles_id": "693338",
+        "articles_time": "2022-10-28T18:06:31+00:00",
+        "articles_author": "honyaki",
+        "articles_Plus": 8,
+        "articles_Minus": 1,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/693338/"
+    },
+    "696148": {
+        "articles_title": "React Native is better than Flutter*",
+        "articles_id": "696148",
+        "articles_time": "2022-10-28T17:03:26+00:00",
+        "articles_author": "alphamikle",
+        "articles_Plus": 7,
+        "articles_Minus": 1,
+        "articles_corporation": false,
+        "articles_url": "https://habr.com/ru/post/696148/"
+    },
+    "696164": {
+        "articles_title": "Защита web.config с помощью цифровых сертификатов в Windows и Azure",
+        "articles_id": "696164",
+        "articles_time": "2022-10-28T16:02:21+00:00",
+        "articles_author": "MaxRokatansky",
+        "articles_Plus": 5,
+        "articles_Minus": 3,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/696164/"
+    },
+    "696150": {
+        "articles_title": "Криптографический протокол для безопасной связи — SSL. Мифы про платные сертификаты",
+        "articles_id": "696150",
+        "articles_time": "2022-10-28T15:44:03+00:00",
+        "articles_author": "AdminVPS",
+        "articles_Plus": 6,
+        "articles_Minus": 7,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/696150/"
+    },
+    "696152": {
+        "articles_title": "«Умные» изобретения: подборка необычных и полезных патентов",
+        "articles_id": "696152",
+        "articles_time": "2022-10-28T15:13:34+00:00",
+        "articles_author": "ko_ya",
+        "articles_Plus": 1,
+        "articles_Minus": 7,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/696152/"
+    },
+    "696100": {
+        "articles_title": "Утечки, избыточный сбор персональных данных и «цифровое насилие»",
+        "articles_id": "696100",
+        "articles_time": "2022-10-28T15:10:43+00:00",
+        "articles_author": "Plusodin",
+        "articles_Plus": 5,
+        "articles_Minus": 1,
+        "articles_corporation": false,
+        "articles_url": "https://habr.com/ru/post/696100/"
+    },
+    "696142": {
+        "articles_title": "ITить-КОЛОТИТЬ, серии 20-21",
+        "articles_id": "696142",
+        "articles_time": "2022-10-28T14:56:02+00:00",
+        "articles_author": "Cloud4Y",
+        "articles_Plus": 3,
+        "articles_Minus": 4,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/696142/"
+    },
+    "696140": {
+        "articles_title": "Как кастомизировать UI артефакты для Selenide + Selenoid + Allure (with TestOPS)",
+        "articles_id": "696140",
+        "articles_time": "2022-10-28T14:45:57+00:00",
+        "articles_author": "toolateitsme",
+        "articles_Plus": 0,
+        "articles_Minus": 0,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/696140/"
+    },
+    "694864": {
+        "articles_title": "Как мы ведем требования к ПО: формализация",
+        "articles_id": "694864",
+        "articles_time": "2022-10-28T14:25:19+00:00",
+        "articles_author": "alobzov",
+        "articles_Plus": 14,
+        "articles_Minus": 0,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/694864/"
+    },
+    "695884": {
+        "articles_title": "Какие доклады будут на DotNext 2022 Autumn",
+        "articles_id": "695884",
+        "articles_time": "2022-10-28T14:05:51+00:00",
+        "articles_author": "ankryazh33",
+        "articles_Plus": 19,
+        "articles_Minus": 0,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/695884/"
+    },
+    "696074": {
+        "articles_title": "Чистая архитектура, или проектируя клиента RuBackup",
+        "articles_id": "696074",
+        "articles_time": "2022-10-28T14:00:02+00:00",
+        "articles_author": "Asidorenko",
+        "articles_Plus": 4,
+        "articles_Minus": 0,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/696074/"
+    },
+    "696134": {
+        "articles_title": "А можно мне радиоуправляемый самосвал, но только чтоб настоящий? Да запросто",
+        "articles_id": "696134",
+        "articles_time": "2022-10-28T13:57:07+00:00",
+        "articles_author": "Violent1982",
+        "articles_Plus": 14,
+        "articles_Minus": 3,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/696134/"
+    },
+    "696128": {
+        "articles_title": "Полезные плагины VS Code для разработки кроссплатформенных приложений с использованием React Native и Flutter",
+        "articles_id": "696128",
+        "articles_time": "2022-10-28T13:50:49+00:00",
+        "articles_author": "habrahuser",
+        "articles_Plus": 7,
+        "articles_Minus": 1,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/696128/"
+    },
+    "696118": {
+        "articles_title": "5 бизнес-процессов в повседной работе менеджера продукта, которые можно автоматизировать готовыми no-code-решениями",
+        "articles_id": "696118",
+        "articles_time": "2022-10-28T13:18:04+00:00",
+        "articles_author": "kmoseenk",
+        "articles_Plus": 8,
+        "articles_Minus": 1,
+        "articles_corporation": true,
+        "articles_url": "https://habr.com/ru/company/cloud4y/blog/696118/"
+    },
+    "695966": {
+        "articles_title": "Создаём асинхронный Fluent API",
+        "articles_id": "695966",
+        "articles_time": "2022-10-28T13:17:45+00:00",
+        "articles_author": "Ertanic",
+        "articles_Plus": 1,
+        "articles_Minus": 1,
+        "articles_corporation": false,
+        "articles_url": "https://habr.com/ru/post/695966/"
+    }
+}
